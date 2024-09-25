@@ -1,1 +1,3 @@
-# trello_ripoff_pt1
+# Trello Ripoff
+Prototype No.1
+Developed by Novc
